@@ -9,10 +9,13 @@ Este documento es la única fuente autorizada para enumerar, explicar y mostrar 
 - Si pide todos los ejemplos, muestra la lista completa; no selecciones solo algunos.
 - Si responde únicamente «ejemplo», «ejemplos», «sí» o una expresión equivalente sin identificar ninguno, interprétalo como una petición para ver **todos los ejemplos** y muéstralos directamente en el orden 1A, 1B, 2, 3, 4A, 4B y 4C. No preguntes cuál quiere ver.
 - Si indica una categoría o un número concreto, muestra únicamente el ejemplo solicitado.
-- No reconstruyas, acortes, traduzcas ni inventes las direcciones de las imágenes.
-- Para mostrar cada ejemplo, copia exactamente su línea Markdown de imagen.
+- No reconstruyas, acortes, traduzcas ni inventes las direcciones ni los nombres de archivo de las imágenes.
+- Las líneas Markdown del catálogo identifican el archivo oficial de cada ejemplo, pero no debes depender de que la URL remota se renderice en la conversación.
+- Para mostrar un ejemplo, localiza en la carpeta `assets` del complemento el archivo cuyo nombre aparece al final de su URL y copia únicamente el archivo solicitado a `outputs/ejemplos-vitaefluxum` dentro del espacio de trabajo actual. Si se piden todos, copia los siete. Crea esa carpeta si no existe y no modifiques los archivos originales.
+- Muestra las copias mediante líneas Markdown con sus rutas locales absolutas. No muestres ni reveles al usuario la ruta interna de instalación o caché del complemento.
+- Este procedimiento es local: no consultes Internet, no descargues las imágenes y no generes sustitutos.
 - Estas imágenes ya existen: mostrarlas no consume una generación nueva.
-- Si la interfaz no puede renderizar una imagen, conserva la misma URL como enlace pulsable, explica brevemente que existe una limitación de carga y no la sustituyas por otra.
+- Si una copia local no puede renderizarse, ofrece esa misma copia como enlace pulsable, explica brevemente la limitación y no la sustituyas por otra imagen.
 
 ## Personajes
 
