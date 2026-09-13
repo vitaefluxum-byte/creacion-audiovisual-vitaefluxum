@@ -1,0 +1,25 @@
+{
+  "name": "vitaefluxum",
+  "version": "1.0.2",
+  "description": "Sistema VitaeFluxum para crear personajes, blueprints, storyboards y prompts de vídeo coherentes.",
+  "author": {
+    "name": "VitaeFluxum"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "VitaeFluxum",
+    "shortDescription": "Personajes y vídeos con continuidad visual",
+    "longDescription": "Crea y revisa personajes realistas, blueprints, vestuario, escenarios, storyboards 3x3, fotogramas y prompts de vídeo con timeline.",
+    "developerName": "VitaeFluxum",
+    "category": "Image & Video",
+    "capabilities": ["Create", "Review"],
+    "brandColor": "#10182B",
+    "composerIcon": "./assets/logo.png",
+    "logo": "./assets/logo.png",
+    "defaultPrompt": [
+      "Crea un blueprint coherente de este personaje.",
+      "Crea un storyboard cinematográfico 3x3.",
+      "Prepara un prompt de vídeo con timeline."
+    ]
+  }
+}
