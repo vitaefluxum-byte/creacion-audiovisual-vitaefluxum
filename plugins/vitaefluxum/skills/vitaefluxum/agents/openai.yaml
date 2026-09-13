@@ -1,0 +1,6 @@
+interface:
+  display_name: "VitaeFluxum"
+  short_description: "Creación audiovisual coherente con IA"
+  default_prompt: "Usa $vitaefluxum y explícame en mi idioma cómo puedes ayudarme a crear mi proyecto audiovisual."
+policy:
+  allow_implicit_invocation: true
