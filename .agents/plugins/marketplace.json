@@ -1,0 +1,20 @@
+{
+  "name": "creacion-audiovisual-vitaefluxum",
+  "interface": {
+    "displayName": "Creación audiovisual VitaeFluxum"
+  },
+  "plugins": [
+    {
+      "name": "vitaefluxum",
+      "source": {
+        "source": "local",
+        "path": "./plugins/vitaefluxum"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Image & Video"
+    }
+  ]
+}
