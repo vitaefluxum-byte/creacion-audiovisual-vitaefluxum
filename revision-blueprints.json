@@ -1,0 +1,50 @@
+[
+  {
+    "code": "1A",
+    "title": "Rostro",
+    "image": "plugins/vitaefluxum/skills/vitaefluxum/assets/blueprints/01A-rostro-v1.png",
+    "prompt": "plugins/vitaefluxum/skills/vitaefluxum/references/blueprints/rostro.md"
+  },
+  {
+    "code": "1B",
+    "title": "Cuerpo y vestuario",
+    "image": "plugins/vitaefluxum/skills/vitaefluxum/assets/blueprints/01B-cuerpo-vestuario-v1.png",
+    "prompt": "plugins/vitaefluxum/skills/vitaefluxum/references/blueprints/vestuario.md"
+  },
+  {
+    "code": "2",
+    "title": "Personaje completo",
+    "image": "plugins/vitaefluxum/skills/vitaefluxum/assets/blueprints/02-personaje-completo-v1.png",
+    "prompt": "plugins/vitaefluxum/skills/vitaefluxum/references/blueprints/personaje-completo.md"
+  },
+  {
+    "code": "3",
+    "title": "Ficha maestra",
+    "image": "plugins/vitaefluxum/skills/vitaefluxum/assets/blueprints/03-ficha-detallada-v1.png",
+    "prompt": "plugins/vitaefluxum/skills/vitaefluxum/references/blueprints/ficha-maestra.md"
+  },
+  {
+    "code": "5",
+    "title": "Ficha compacta",
+    "image": "plugins/vitaefluxum/skills/vitaefluxum/assets/blueprints/04-ficha-compacta-aprobada.png",
+    "prompt": "plugins/vitaefluxum/skills/vitaefluxum/references/blueprints/ficha-compacta.md"
+  },
+  {
+    "code": "4A",
+    "title": "Objeto: espada",
+    "image": "plugins/vitaefluxum/skills/vitaefluxum/assets/blueprints/objeto-espada.png",
+    "prompt": "plugins/vitaefluxum/skills/vitaefluxum/references/blueprints/objeto-espada.md"
+  },
+  {
+    "code": "4B",
+    "title": "Objeto: mueble",
+    "image": "plugins/vitaefluxum/skills/vitaefluxum/assets/blueprints/objeto-mueble.png",
+    "prompt": "plugins/vitaefluxum/skills/vitaefluxum/references/blueprints/objeto-mueble.md"
+  },
+  {
+    "code": "4C",
+    "title": "Objeto: vehículo",
+    "image": "plugins/vitaefluxum/skills/vitaefluxum/assets/blueprints/objeto-vehiculo.png",
+    "prompt": "plugins/vitaefluxum/skills/vitaefluxum/references/blueprints/objeto-vehiculo.md"
+  }
+]
