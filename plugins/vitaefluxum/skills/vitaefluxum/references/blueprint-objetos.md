@@ -1,8 +1,12 @@
-# Blueprint técnico de objetos
+> Versión 2: aplica la elección prompt/imagen/ambos y el flujo de SKILL.md. Las reglas de realismo se adaptan al estilo solicitado. Para vídeo utiliza video-plataformas.md y sus plantillas.
+
+# Blueprint de objetos — referencia visual
+
+No es un plano técnico medido. Las dimensiones proporcionadas sirven de objetivo; una imagen generada no certifica medidas ni funcionalidad de mecanismos.
 
 Utiliza este flujo para crear una referencia coherente de cualquier objeto que el usuario quiera, real o ficticio y de cualquier tamaño. Adapta la hoja a aquello que deba conservar su forma, escala, materiales, color, desgaste, funcionamiento y relación con los personajes o el escenario entre imágenes y vídeos.
 
-Cuando la petición coincida con este flujo, utiliza el **Prompt maestro** de este documento como base real, completa sus campos y elimina únicamente los apartados opcionales que no correspondan. No lo sustituyas por un prompt improvisado. Al entregar el resultado, indica: «Flujo utilizado: Blueprint técnico de objetos».
+Cuando la petición coincida con este flujo, utiliza el **Prompt maestro** de este documento como base real, completa sus campos y elimina únicamente los apartados opcionales que no correspondan. Para reproducir un formato del catálogo usa su plantilla específica y completa solo los campos pertinentes de esta base general. Al entregar el resultado, indica: «Flujo utilizado: Blueprint técnico de objetos».
 
 No limites las opciones a una lista cerrada. Armas, herramientas, joyas, dispositivos, muebles, vehículos y maquinaria son únicamente ejemplos. Si el usuario propone otro tipo de objeto, conserva este mismo método y selecciona las vistas, estados y detalles que mejor documenten su diseño y uso.
 
@@ -52,13 +56,13 @@ No mezcles en una misma vista configuraciones incompatibles. Si el vehículo cam
 
 ## Antes de empezar
 
-Pregunta si el usuario tiene una imagen de referencia o quiere diseñar el objeto desde cero. Después pregunta qué desea recibir:
+Utiliza las referencias ya adjuntas. Si falta decidir referencia o diseño desde cero, pregunta solo lo necesario. Muestra los ejemplos del catálogo si no ha elegido formato. Pregunta qué desea recibir únicamente si todavía no lo ha indicado:
 
 1. solo el prompt;
 2. solo la imagen;
 3. el prompt y la imagen.
 
-No generes ninguna imagen hasta que el usuario elija una opción que la incluya. Puedes mostrar ejemplos existentes sin consumir una generación.
+Una petición explícita de imagen ya selecciona esa opción; no vuelvas a pedir confirmación. Puedes mostrar ejemplos existentes sin consumir una generación.
 
 Si el usuario no indica estilo visual, utiliza realismo cinematográfico natural. Si no indica formato, utiliza horizontal 16:9 y 1920 × 1080. Fondo gris claro uniforme, salvo petición contraria.
 
@@ -168,7 +172,7 @@ Modo de agarre, transporte o almacenamiento: [DESCRIPCIÓN]
 
 Hoja horizontal profesional sobre fondo gris claro uniforme. Mostrar una vista principal neutra y las vistas ortográficas necesarias: frontal, posterior, lateral izquierdo, lateral derecho, superior e inferior cuando aporten información. Añadir primeros planos únicamente de materiales, mecanismos y marcas importantes. Incluir vista explotada solo si el interior es relevante.
 
-Misma escala, geometría, colores, materiales, asimetrías y desgaste en todas las vistas. Iluminación de estudio neutra, suave y constante. Perspectiva mínima en vistas técnicas y perspectiva natural en la vista principal.
+Misma geometría, colores, materiales, asimetrías y desgaste en todas las vistas. Igual escala entre elevaciones comparables; vista principal y detalles pueden tener una escala mayor claramente separada. Iluminación de estudio neutra, suave y constante. Perspectiva mínima en vistas técnicas y perspectiva natural en la vista principal.
 
 [EVITAR]
 

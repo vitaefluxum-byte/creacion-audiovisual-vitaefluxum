@@ -1,3 +1,5 @@
+> Versión 2: aplica la elección prompt/imagen/ambos y el flujo de SKILL.md. Las reglas de realismo se adaptan al estilo solicitado. Para vídeo utiliza video-plataformas.md y sus plantillas.
+
 # Prompt profesional de vídeo
 
 Utiliza esta referencia cuando el usuario quiera un prompt de vídeo completo, especialmente para animar una imagen inicial o mantener continuidad entre planos.

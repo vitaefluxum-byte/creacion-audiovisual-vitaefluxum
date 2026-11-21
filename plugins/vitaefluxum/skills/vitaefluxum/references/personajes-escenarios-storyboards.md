@@ -1,3 +1,7 @@
+> Para reproducir los formatos del catálogo v2, utiliza sus prompts enlazados. Los bloques ampliados de este documento sirven para necesidades adicionales; no sustituyen la distribución elegida ni obligan a añadir vistas o expresiones.
+
+> Versión 2: aplica la elección prompt/imagen/ambos y el flujo de SKILL.md. Las reglas de realismo se adaptan al estilo solicitado. Para vídeo utiliza video-plataformas.md y sus plantillas.
+
 # PROMPTS MAESTROS — PERSONAJES REALISTAS Y CONSISTENTES
 
 Versión optimizada para evitar personajes excesivamente perfectos, piel plástica, estética publicitaria y apariencia de render. Sustituye los campos entre corchetes antes de generar.
@@ -6,7 +10,7 @@ Versión optimizada para evitar personajes excesivamente perfectos, piel plásti
 
 Cuando una petición coincida con uno de estos flujos, utilizar el bloque correspondiente como base real, completar sus campos y conservar su lógica, prioridades y validación. Se pueden eliminar apartados opcionales que no correspondan y añadir restricciones específicas, pero no sustituir el bloque por un prompt improvisado. Seleccionar únicamente un flujo por generación: blueprint, personaje integrado, escenario, storyboard, reconstrucción o reparación.
 
-Todas las reglas universales, jerarquías, controles y validaciones de este documento son **obligatorias y no interpretables como sugerencias**. Deben aplicarse tanto al preparar el prompt como al revisar el resultado. No pueden omitirse por brevedad ni porque la imagen parezca atractiva. Si un requisito no puede verificarse visualmente, el resultado no se aprueba.
+Aplica los controles pertinentes al sujeto y al estilo solicitado. Conserva la continuidad visible y señala lo que no se puede verificar; no inventes validaciones de partes ocultas. El flujo y la elección de entrega de SKILL.md tienen prioridad.
 
 ## REGLA UNIVERSAL DE LATERALIDAD Y CONTINUIDAD
 

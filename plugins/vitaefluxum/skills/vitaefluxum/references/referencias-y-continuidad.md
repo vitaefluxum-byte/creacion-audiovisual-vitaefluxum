@@ -1,3 +1,5 @@
+> Versión 2: aplica la elección prompt/imagen/ambos y el flujo de SKILL.md. Las reglas de realismo se adaptan al estilo solicitado. Para vídeo utiliza video-plataformas.md y sus plantillas.
+
 # Referencias y continuidad entre generaciones
 
 ## Carácter obligatorio
