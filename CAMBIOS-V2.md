@@ -9,4 +9,4 @@
 - Blender opcional tras aprobar la imagen base; niveles de representación y acabado, render estático antes de la animación salvo autorización previa.
 - Recursos autocontenidos y guía de portabilidad. Se conserva la documentación cinematográfica útil.
 
-Los ejemplos son referencias generadas, no planos técnicos calibrados. El paquete está preparado para revisión local; publicarlo es un paso separado.
+Los ejemplos son referencias generadas, no planos técnicos calibrados. La versión anterior puede consultarse en el historial de Git.

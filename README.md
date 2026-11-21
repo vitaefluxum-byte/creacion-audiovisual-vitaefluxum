@@ -1,4 +1,4 @@
-# VitaeFluxum — versión 2 para revisión
+# VitaeFluxum — versión 2
 
 Proyectos audiovisuales guiados, guiones, blueprints, escenarios, storyboards, prompts de vídeo y una guía visual de cine y vídeo.
 
@@ -26,10 +26,10 @@ La interfaz debe admitir skills o documentos equivalentes; no se garantiza insta
 
 La guía cuenta con 39 referencias. Los ejemplos revisados de tercios y lentes están incorporados tras su aprobación visual. La comparación de lentes es ilustrativa, no calibrada. No se ha probado esta versión en sesiones reales de distintos asistentes. La estructura del paquete no equivale a una certificación de compatibilidad.
 
-Esta copia no publica ni sustituye la versión de GitHub.
+La versión anterior se conserva en el historial del repositorio.
 
 ## Versión nueva
 
-[Instalación y actualización](INSTALACION.md) · [Cambios](CAMBIOS-V2.md) · [Revisión visual de blueprints y prompts](revision-blueprints.html)
+[Instalación y actualización](INSTALACION.md) · [Cambios](CAMBIOS-V2.md) · [Ejemplos de blueprints y prompts](plugins/vitaefluxum/skills/vitaefluxum/references/catalogo-blueprints.md)
 
 Los ocho formatos del catálogo incluyen su plantilla propia. Los ejemplos de objetos anteriores se sustituyen por espada, escritorio y deportivo moderno.
