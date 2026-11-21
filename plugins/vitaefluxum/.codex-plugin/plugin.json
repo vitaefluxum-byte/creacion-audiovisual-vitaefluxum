@@ -1,7 +1,7 @@
 {
   "name": "vitaefluxum",
-  "version": "1.0.2",
-  "description": "Sistema VitaeFluxum para crear personajes, blueprints, storyboards y prompts de vídeo coherentes.",
+  "version": "2.0.0",
+  "description": "VitaeFluxum: proyectos guiados, referencias visuales, vídeo y Blender opcional.",
   "author": {
     "name": "VitaeFluxum"
   },
@@ -12,7 +12,10 @@
     "longDescription": "Crea y revisa personajes realistas, blueprints, vestuario, escenarios, storyboards 3x3, fotogramas y prompts de vídeo con timeline.",
     "developerName": "VitaeFluxum",
     "category": "Image & Video",
-    "capabilities": ["Create", "Review"],
+    "capabilities": [
+      "Create",
+      "Review"
+    ],
     "brandColor": "#10182B",
     "composerIcon": "./assets/logo.png",
     "logo": "./assets/logo.png",
